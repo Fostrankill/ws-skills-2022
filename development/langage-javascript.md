@@ -29,7 +29,7 @@ Objects (with properties && methods)
 ### Un exemple de code commenté ✔️
 
 ```javascript
-const EnergieEgaleLaMasseFoisLaCeleriteAuCarré = (e) => mc2;
+const EnergieEgaleLaMasseFoisLaCeleriteAuCarre = (e) => mc2;
 ```
 
 ### Utilisation dans un projet ✔️

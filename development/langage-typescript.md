@@ -43,7 +43,7 @@ Description :
 ### Point de blocage ❌ / ✔️
 
 Description:
-
+ 
 Plan d'action : (à valider par le formateur)
 
 - action 1 ❌ / ✔️
